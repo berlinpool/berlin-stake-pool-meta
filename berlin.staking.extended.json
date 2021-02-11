@@ -2,14 +2,9 @@
   "info": {
     "url_png_icon_64x64": "https://github.com/will991/berlin-stake-pool/blob/main/berlin_64.png?raw=true",
     "url_png_logo": "https://github.com/will991/berlin-stake-pool/blob/main/berlin.png?raw=true",
-    "location": "Berlin, Germany",
-    "social": {
-      "twitter_handle": "william_brln",
-      "telegram_handle": "william_berlin"
-    },
     "about": {
-      "me": "Software Engineer & Nerd",
-      "server": "Cloud based cluster"
+      "me": "Volleyball & Software Engineer",
+      "server": "Cloud based, secure, international cluster"
     }
   }
 }
