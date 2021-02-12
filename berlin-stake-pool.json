@@ -3,5 +3,4 @@
     "description": "Cloud-based reliable, secure stakepool cluster. Stake with your favorite city - check out upcoming city pools. Feel free to reach out to us @ staking.berlin",
     "ticker": "BRLN",
     "homepage": "https://staking.berlin",
-    "extended": "https://raw.githubusercontent.com/will991/berlin-stake-pool/main/berlin.staking.extended.json"
 }
