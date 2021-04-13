@@ -1,13 +1,13 @@
 {
   "adapools": {
-    "url_png_icon_64x64": "https://git.io/JOmbD",
-    "url_png_logo": "https://git.io/JOmbH",
+    "url_png_icon_64x64": "https://github.com/will991/berlin-stake-pool/blob/main/berlin-64x.png?raw=true",
+    "url_png_logo": "https://github.com/will991/berlin-stake-pool/blob/main/berlin.png?raw=true",
     "location": "Berlin, Germany",
     "social": {
-      "twitter_handle": "wolffofcrypto",
+      "twitter_handle": "stakingberlin",
       "telegram_handle": "william_brln",
       "facebook_handle": "",
-      "youtube_handle": "https://www.youtube.com/channel/UChmM1fOoQratCZNP_VUGnxQ",
+      "youtube_handle": "channel/UChmM1fOoQratCZNP_VUGnxQ",
       "twitch_handle": "",
       "discord_handle": "",
       "github_handle": ""
