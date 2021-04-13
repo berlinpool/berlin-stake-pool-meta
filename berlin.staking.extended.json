@@ -1,15 +1,16 @@
 {
   "info": {
-    "url_png_icon_64x64": "https://github.com/will991/berlin-stake-pool/blob/main/berlin-64.png?raw=true",
-    "url_png_logo": "https://github.com/will991/berlin-stake-pool/blob/main/berlin.png?raw=true",
+    "url_png_icon_64x64": "https://git.io/JOmbD",
+    "url_png_logo": "https://git.io/JOmbH",
     "location": "Berlin, Germany",
     "social": {
-      "twitter_handle": "stakingberlin",
-      "telegram_handle": "william_brln"
+      "twitter_handle": "wolffofcrypto",
+      "telegram_handle": "william_brln",
+      "youtube_handle": "https://www.youtube.com/channel/UChmM1fOoQratCZNP_VUGnxQ",
     },
     "about": {
-      "me": "Beachvolleyball🏐 & Software Engineer 👾",
-      "server": "Cloud based cluster"
+      "me": "I am a single pool operator, senior software engineer & passionate beach volleyballer 🏐",
+      "server": "AMD EPYC 2nd Gen, 64GB 3.5GHz ECC RAM, fiber internet, 2N+1 redundancy"
     }
   }
 }
