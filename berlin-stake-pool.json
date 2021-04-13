@@ -1,6 +1,7 @@
 {
-    "name": "Berlin StakePool",
-    "description": "Reliable, secure, clustered pool. Aiming for sustainable frequent rewards. Thankful for any delegator support!",
+    "name": "Berlin Pool",
+    "description": "Stake Pool operated from Berlin. Stable pledge & future local community support",
     "ticker": "BRLN",
-    "homepage": "https://staking.berlin"
+    "homepage": "https://staking.berlin",
+    "extended": "https://git.io/JOmba"
 }
